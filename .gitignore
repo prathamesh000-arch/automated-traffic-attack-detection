@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# React / Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Datasets
+datasets/
+data/
+CIC-DDoS2019/
+
+# System files
+.DS_Store
+Thumbs.db
